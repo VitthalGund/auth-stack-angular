@@ -1,6 +1,7 @@
 {
-  "name": "angular-jwt-login-with-refresh-token",
+  "name": "auth-stack",
   "version": "0.0.0",
+  "author": "Vitthal Gund",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
