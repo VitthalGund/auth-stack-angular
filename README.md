@@ -2,7 +2,7 @@
 
 ![Auth Stack Logo](https://github.com/VitthalGund/Auth-Stack/assets/97181033/6f2da7ff-c0c0-46fe-88a1-740e5a1060b8)
 
-Auth Stack is a powerful authentication solution crafted for full-stack projects, leveraging the MERN and Next.js technology stacks. This repository serves as a comprehensive boilerplate code, offering pre-built login, sign components, and more, with 100% customization for developers. 🔐
+Auth Stack is a powerful authentication solution crafted for full-stack projects, leveraging the MERN, MEAN and Next.js technology stacks. This repository serves as a comprehensive boilerplate code, offering pre-built login, sign components, and more, with 100% customization for developers. 🔐
 
 ## Motivation
 
